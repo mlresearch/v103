@@ -1,0 +1,83 @@
+---
+booktitle: 'Proceedings of the Eleventh International Symposium on Imprecise Probabilities:
+  Theories and Applications'
+shortname: ISIPTA
+sections:
+- name: Preface
+  title: Preface
+- name: Full Papers
+  title: Full Papers
+- name: Short Papers
+  title: Short Papers
+year: '2019'
+volume: 103
+start: 2019-07-03
+end: 2019-07-06
+url: http://proceedings.mlr.press
+conference_number: '11'
+published: 2019-06-29
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: ISIPTA2019
+month: 0
+cycles: false
+bibtex_editor: De Bock, Jasper and de Campos, Cassio P. and de Cooman, Gert and Quaeghebeur,
+  Erik and Wheeler, Gregory
+editor:
+- given: Jasper
+  family: De Bock
+- given: Cassio P.
+  family: Campos
+- given: Gert
+  family: Cooman
+- given: Erik
+  family: Quaeghebeur
+- given: Gregory
+  family: Wheeler
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Eleventh International Symposium on Imprecise Probabilities: Theories and Applications
+    Held in Thagaste, Ghent, Belgium on 03-06 July 2019
+
+  Published as Volume 103 by the Proceedings of Machine Learning Research on 29 June 2019.
+
+  Volume Edited by:
+    Jasper De Bock
+    Cassio P. Campos
+    Gert Cooman
+    Erik Quaeghebeur
+    Gregory Wheeler
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 03--06 Jul
+baseurl: "/v103"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v103
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: 'International Symposium on Imprecise Probabilities: Theories and Applications'
+  url: 
+  location: Thagaste, Ghent, Belgium
+  dates:
+  - 2019-07-03
+  - 2019-07-04
+  - 2019-07-05
+  - 2019-07-06
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v103/isipta2019.bib
