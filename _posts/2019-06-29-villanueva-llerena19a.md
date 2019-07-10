@@ -19,12 +19,9 @@ series: Proceedings of Machine Learning Research
 id: villanueva-llerena19a
 month: 0
 tex_title: Robust Analysis of MAP Inference in Selective Sum-Product Networks
-firstpage: !binary |-
-  NDMw4oCTNDQw
-lastpage: !binary |-
-  NDMw4oCTNDQw
-page: !binary |-
-  NDMw4oCTNDQwLTQzMOKAkzQ0MA==
+firstpage: 430
+lastpage: 440
+page: 430-440
 order: 430
 cycles: false
 bibtex_author: Villanueva Llerena, Julissa Giuliana and Mau\'{a}, Denis Deratani

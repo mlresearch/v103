@@ -13,23 +13,23 @@ year: '2019'
 volume: 103
 start: 2019-07-03
 end: 2019-07-06
+published: 2019-06-29
 url: http://proceedings.mlr.press
 conference_number: '11'
-published: 2019-06-29
 layout: proceedings
 series: Proceedings of Machine Learning Research
 id: ISIPTA2019
 month: 0
 cycles: false
-bibtex_editor: De Bock, Jasper and de Campos, Cassio P. and de Cooman, Gert and Quaeghebeur,
-  Erik and Wheeler, Gregory
+bibtex_editor: De Bock, Jasper and {de Campos}, Cassio P. and {de Cooman}, Gert and
+  Quaeghebeur, Erik and Wheeler, Gregory
 editor:
 - given: Jasper
   family: De Bock
 - given: Cassio P.
-  family: Campos
+  family: de Campos
 - given: Gert
-  family: Cooman
+  family: de Cooman
 - given: Erik
   family: Quaeghebeur
 - given: Gregory
@@ -43,8 +43,8 @@ description: |
 
   Volume Edited by:
     Jasper De Bock
-    Cassio P. Campos
-    Gert Cooman
+    Cassio P. de Campos
+    Gert de Cooman
     Erik Quaeghebeur
     Gregory Wheeler
 

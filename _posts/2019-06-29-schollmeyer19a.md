@@ -16,12 +16,9 @@ id: schollmeyer19a
 month: 0
 tex_title: A Short Note on the Equivalence of the Ontic and the Epistemic View on
   Data Imprecision for the Case of Stochastic Dominance for Interval-Valued Data
-firstpage: !binary |-
-  MzMw4oCTMzM3
-lastpage: !binary |-
-  MzMw4oCTMzM3
-page: !binary |-
-  MzMw4oCTMzM3LTMzMOKAkzMzNw==
+firstpage: 330
+lastpage: 337
+page: 330-337
 order: 330
 cycles: false
 bibtex_author: Schollmeyer, Georg

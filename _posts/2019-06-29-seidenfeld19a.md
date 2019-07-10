@@ -17,12 +17,9 @@ series: Proceedings of Machine Learning Research
 id: seidenfeld19a
 month: 0
 tex_title: 'A Retrospective on Isaac Levi: June 30, 1930 – December 25, 2018'
-firstpage: !binary |-
-  MzQ24oCTMzUz
-lastpage: !binary |-
-  MzQ24oCTMzUz
-page: !binary |-
-  MzQ24oCTMzUzLTM0NuKAkzM1Mw==
+firstpage: 346
+lastpage: 353
+page: 346-353
 order: 346
 cycles: false
 bibtex_author: Seidenfeld, Teddy

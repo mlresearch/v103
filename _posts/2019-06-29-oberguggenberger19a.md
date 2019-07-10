@@ -14,12 +14,9 @@ series: Proceedings of Machine Learning Research
 id: oberguggenberger19a
 month: 0
 tex_title: Random Set Solutions to Stochastic Wave Equations
-firstpage: !binary |-
-  MzE04oCTMzIz
-lastpage: !binary |-
-  MzE04oCTMzIz
-page: !binary |-
-  MzE04oCTMzIzLTMxNOKAkzMyMw==
+firstpage: 314
+lastpage: 323
+page: 314-323
 order: 314
 cycles: false
 bibtex_author: Oberguggenberger, Michael and Wurzer, Lukas

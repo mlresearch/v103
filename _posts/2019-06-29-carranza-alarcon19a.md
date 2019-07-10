@@ -19,12 +19,9 @@ series: Proceedings of Machine Learning Research
 id: carranza-alarcon19a
 month: 0
 tex_title: Imprecise Gaussian Discriminant Classification
-firstpage: !binary |-
-  NTnigJM2Nw==
-lastpage: !binary |-
-  NTnigJM2Nw==
-page: !binary |-
-  NTnigJM2Ny01OeKAkzY3
+firstpage: 59
+lastpage: 67
+page: 59-67
 order: 59
 cycles: false
 bibtex_author: Carranza Alarcon, Yonatan Carlos and Destercke, S\'{e}bastien

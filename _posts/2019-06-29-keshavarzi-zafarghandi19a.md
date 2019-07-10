@@ -29,12 +29,9 @@ id: keshavarzi-zafarghandi19a
 month: 0
 tex_title: Embedding Probabilities, Utilities and Decisions in a Generalization of
   Abstract Dialectical Frameworks
-firstpage: !binary |-
-  MjQ24oCTMjU1
-lastpage: !binary |-
-  MjQ24oCTMjU1
-page: !binary |-
-  MjQ24oCTMjU1LTI0NuKAkzI1NQ==
+firstpage: 246
+lastpage: 255
+page: 246-255
 order: 246
 cycles: false
 bibtex_author: Keshavarzi Zafarghandi, Atefeh and Verheij, Bart and Verbrugge, Rineke

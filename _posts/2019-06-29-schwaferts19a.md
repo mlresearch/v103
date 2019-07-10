@@ -23,12 +23,9 @@ series: Proceedings of Machine Learning Research
 id: schwaferts19a
 month: 0
 tex_title: Imprecise Hypothesis-Based Bayesian Decision Making with Simple Hypotheses
-firstpage: !binary |-
-  MzM44oCTMzQ1
-lastpage: !binary |-
-  MzM44oCTMzQ1
-page: !binary |-
-  MzM44oCTMzQ1LTMzOOKAkzM0NQ==
+firstpage: 338
+lastpage: 345
+page: 338-345
 order: 338
 cycles: false
 bibtex_author: Schwaferts, Patrick Michael and Augustin, Thomas
